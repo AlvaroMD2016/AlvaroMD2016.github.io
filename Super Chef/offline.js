@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497404009,
+	"version": 1497539941,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,12 @@
 		"images/mesa-sheet0.png",
 		"images/microondas-sheet0.png",
 		"images/sólido-sheet0.png",
+		"images/barata-sheet0.png",
+		"images/cebola-sheet0.png",
+		"images/coentro-sheet0.png",
+		"images/feijão-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/you win sound effect 5.m4a",
 		"media/you win sound effect 5.ogg",
 		"media/328177__setuniman__intro-1n15.m4a",

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497932345,
+	"version": 1497934556,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,9 +67,6 @@
 		"images/tucupi-sheet0.png",
 		"images/significadotucupi-sheet0.png",
 		"images/creditos-sheet0.png",
-		"images/flatdark-sheet0.png",
-		"images/flatdark2-sheet0.png",
-		"images/flatdark3-sheet0.png",
 		"media/you win sound effect 5.m4a",
 		"media/you win sound effect 5.ogg",
 		"media/328177__setuniman__intro-1n15.m4a",

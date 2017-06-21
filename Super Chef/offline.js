@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1497934556,
+	"version": 1498019726,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,8 +67,10 @@
 		"images/tucupi-sheet0.png",
 		"images/significadotucupi-sheet0.png",
 		"images/creditos-sheet0.png",
-		"media/you win sound effect 5.m4a",
+		"media/vitoria.m4a",
 		"media/you win sound effect 5.ogg",
+		"media/coletaralimento.m4a",
+		"media/135936__bradwesson__collectcoin.ogg",
 		"media/328177__setuniman__intro-1n15.m4a",
 		"media/328177__setuniman__intro-1n15.ogg",
 		"media/362206__taranp__horn-fail-wahwah-1.m4a",

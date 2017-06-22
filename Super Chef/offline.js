@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498020924,
+	"version": 1498100410,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -71,6 +71,8 @@
 		"media/you win sound effect 5.ogg",
 		"media/coletaralimento.m4a",
 		"media/135936__bradwesson__collectcoin.ogg",
+		"media/233539__waveplay__click.m4a",
+		"media/233539__waveplay__click.ogg",
 		"media/328177__setuniman__intro-1n15.m4a",
 		"media/328177__setuniman__intro-1n15.ogg",
 		"media/362206__taranp__horn-fail-wahwah-1.m4a",

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498444835,
+	"version": 1499111941,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,6 +67,7 @@
 		"images/tucupi-sheet0.png",
 		"images/significadotucupi-sheet0.png",
 		"images/creditos-sheet0.png",
+		"images/teladerrota-sheet0.png",
 		"media/vitoria.m4a",
 		"media/you win sound effect 5.ogg",
 		"media/coletaralimento.m4a",
@@ -82,6 +83,8 @@
 		"media/little town - orchestral.ogg",
 		"media/265549_vikuserro_cheap-flash-game-tune (online-audio-converter.com).m4a",
 		"media/265549_vikuserro_cheap-flash-game-tune (online-audio-converter.com).ogg",
+		"media/twenty one pilots - heathens (from suicide squad) (karaoke version) (mp3cut.net).m4a",
+		"media/twenty one pilots - heathens (from suicide squad) (karaoke version) (mp3cut.net).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

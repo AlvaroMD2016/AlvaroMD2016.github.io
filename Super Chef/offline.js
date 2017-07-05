@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499199496,
+	"version": 1499260217,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -68,7 +68,7 @@
 		"images/significadotucupi-sheet0.png",
 		"images/creditos-sheet0.png",
 		"images/teladerrota-sheet0.png",
-		"images/sprite-sheet0.png",
+		"images/logo-sheet0.png",
 		"media/vitoria.m4a",
 		"media/you win sound effect 5.ogg",
 		"media/coletaralimento.m4a",

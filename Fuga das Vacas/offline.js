@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502001298,
+	"version": 1502509742,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,8 @@
 		"images/botaomusic-sheet1.png",
 		"images/telavoceperdeu-sheet0.png",
 		"images/creditos-sheet0.png",
+		"images/pedaçoperna-sheet0.png",
+		"images/cabeçavaca-sheet0.png",
 		"media/pulo1.m4a",
 		"media/pulo1.ogg",
 		"media/moon (mp3cut.net).m4a",
@@ -47,8 +49,12 @@
 		"media/woosh-mark_diangelo-4778593 (online-audio-converter.com).m4a",
 		"media/woosh-mark_diangelo-4778593 (online-audio-converter.com).ogg",
 		"media/buttonclick.ogg",
+		"media/218460__thomasjaunism__wood-block-hit.m4a",
+		"media/218460__thomasjaunism__wood-block-hit.ogg",
 		"media/theme.ogg",
 		"media/theme2.ogg",
+		"media/388079_xsgianni_mario-s-way (online-audio-converter.com).m4a",
+		"media/388079_xsgianni_mario-s-way (online-audio-converter.com).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

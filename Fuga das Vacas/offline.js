@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503370042,
+	"version": 1503372130,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -42,7 +42,6 @@
 		"images/botaopause-sheet0.png",
 		"images/botaopause-sheet1.png",
 		"images/botaoinstruçoes-sheet0.png",
-		"images/nomesinstrucoes-sheet0.png",
 		"images/simbolotouch-sheet0.png",
 		"images/nomesinstrucoes2-sheet0.png",
 		"images/nomesinstrucoes3-sheet0.png",
@@ -54,6 +53,9 @@
 		"images/pedaçosvacaserra3-sheet0.png",
 		"images/sangue.png",
 		"images/destroiserras-sheet0.png",
+		"images/textpular-sheet0.png",
+		"images/textpular2-sheet0.png",
+		"images/topico-sheet0.png",
 		"media/pulo1.m4a",
 		"media/pulo1.ogg",
 		"media/moon (mp3cut.net).m4a",

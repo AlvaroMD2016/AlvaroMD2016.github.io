@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1502760929,
+	"version": 1503370042,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,6 +47,13 @@
 		"images/nomesinstrucoes2-sheet0.png",
 		"images/nomesinstrucoes3-sheet0.png",
 		"images/completo-sheet0.png",
+		"images/parar-sheet0.png",
+		"images/serra-sheet0.png",
+		"images/serra-sheet1.png",
+		"images/pedaçosvacaserra2-sheet0.png",
+		"images/pedaçosvacaserra3-sheet0.png",
+		"images/sangue.png",
+		"images/destroiserras-sheet0.png",
 		"media/pulo1.m4a",
 		"media/pulo1.ogg",
 		"media/moon (mp3cut.net).m4a",

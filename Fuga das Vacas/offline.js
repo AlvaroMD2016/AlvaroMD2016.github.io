@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503372130,
+	"version": 1503856186,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -55,7 +55,6 @@
 		"images/destroiserras-sheet0.png",
 		"images/textpular-sheet0.png",
 		"images/textpular2-sheet0.png",
-		"images/topico-sheet0.png",
 		"media/pulo1.m4a",
 		"media/pulo1.ogg",
 		"media/moon (mp3cut.net).m4a",

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1512616888,
+	"version": 1512647772,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -69,7 +69,6 @@
 		"images/btn_passar-sheet0.png",
 		"images/grama_chao-sheet0.png",
 		"images/grama_chao-sheet1.png",
-		"images/joystick-sheet0.png",
 		"images/agua_chao-sheet0.png",
 		"images/agua_chao-sheet1.png",
 		"images/porcao-sheet0.png",
@@ -86,6 +85,9 @@
 		"images/btn_check-sheet0.png",
 		"images/t5p-sheet0.png",
 		"images/fundo_logo-sheet0.png",
+		"images/btn_andar-sheet0.png",
+		"images/btn_andar-sheet1.png",
+		"images/btn_andar-sheet2.png",
 		"media/34205__themfish__zoup.m4a",
 		"media/34205__themfish__zoup.ogg",
 		"media/66692__mad-monkey__power06.m4a",

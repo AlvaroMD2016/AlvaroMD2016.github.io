@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1512647772,
+	"version": 1512650352,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -88,6 +88,9 @@
 		"images/btn_andar-sheet0.png",
 		"images/btn_andar-sheet1.png",
 		"images/btn_andar-sheet2.png",
+		"images/credi_nomejog-sheet0.png",
+		"images/credit_logos-sheet0.png",
+		"images/credit_logoac-sheet0.png",
 		"media/34205__themfish__zoup.m4a",
 		"media/34205__themfish__zoup.ogg",
 		"media/66692__mad-monkey__power06.m4a",

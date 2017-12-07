@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1512610976,
+	"version": 1512616888,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -109,6 +109,8 @@
 		"media/morte_pers.ogg",
 		"media/ferimento.m4a",
 		"media/ferimento.ogg",
+		"media/collect.m4a",
+		"media/collect.ogg",
 		"media/fundo misterio.m4a",
 		"media/fundo misterio.ogg",
 		"media/creditos.m4a",

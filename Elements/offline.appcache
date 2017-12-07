@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1512610976
+#1512616888
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -108,6 +108,8 @@ media/morte_pers.m4a
 media/morte_pers.ogg
 media/ferimento.m4a
 media/ferimento.ogg
+media/collect.m4a
+media/collect.ogg
 media/fundo%20misterio.m4a
 media/fundo%20misterio.ogg
 media/creditos.m4a

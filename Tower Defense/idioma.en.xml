@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<textos>
+	<texto id='iniciar'>Play</texto>
+	<texto id='level'>Select your level</texto>
+	<texto id='inimigo1'>Caries</texto>
+	<texto id='inimigo2'>bad breath</texto>
+	<texto id='inimigo3'>Spoiled tooth</texto>
+	<texto id='idioma'>Select Your Language</texto>
+	<texto id='derrota'>You lost</texto>
+	<texto id='vitoria'>You won</texto>
+	<texto id='carie'>Slow and strong</texto>
+	<texto id='halito'>Quick and weak</texto>
+	<texto id='repetir'>Try again</texto>
+	<texto id='reiniciar'>Restart</texto>
+	<texto id='sair'>Exit</texto>
+	<texto id='inimigos'>Enemies</texto>
+	<texto id='torres'>Towers</texto>
+	<texto id='torre1'>Toothpaste</texto>
+	<texto id='torre2'>Mouthwash</texto>
+	<texto id='torre3'>Toothbrush</texto>
+	<texto id='torre4'>Floss</texto>
+</textos>

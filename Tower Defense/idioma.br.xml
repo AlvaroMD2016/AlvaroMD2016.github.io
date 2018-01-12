@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<textos>
+	<texto id='iniciar'>Jogar</texto>
+	<texto id='level'>Selecione seu level</texto>
+	<texto id='inimigo1'>Carie</texto>
+	<texto id='inimigo2'>Mau halito</texto>
+	<texto id='inimigo3'>Dente estragado</texto>
+	<texto id='idioma'>Selecione o seu idioma</texto>
+	<texto id='derrota'>Voce perdeu</texto>
+	<texto id='vitoria'>Voce venceu</texto>
+	<texto id='carie'>Lento e forte</texto>
+	<texto id='halito'>Rapido e fraco</texto>
+	<texto id='repetir'>Tente novamente</texto>
+	<texto id='reiniciar'>Reiniciar</texto>
+	<texto id='sair'>Sair</texto>
+	<texto id='inimigos'>Inimigos</texto>
+	<texto id='torres'>Torres</texto>
+	<texto id='torre1'>Pasta de dente</texto>
+	<texto id='torre2'>Enxaguante bucal</texto>
+	<texto id='torre3'>Escova de dente</texto>
+	<texto id='torre4'>Fio dental</texto>
+</textos>

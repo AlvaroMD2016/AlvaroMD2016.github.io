@@ -14,10 +14,20 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 
 ## Games
 
- [Fuga das Vacas](https://AlvaroMD2016.github.io/Fuga das vacas)  
- [Elements](https://AlvaroMD2016.github.io/Elements)  
+ [Elements](https://AlvaroMD2016.github.io/Elements)
 
 ## Artes
+
+![Emoji](https://cdn-enterprise.discourse.org/gethopscotch1/uploads/default/original/3X/7/8/78b939bb0c45dc9281cd0ade5c2925c208e10b1d.jpeg)
+
+![Estrela](https://media.cdnandroid.com/69/b2/33/7f/imagen-star-coloring-color-by-number-pixel-art-0thumb.jpg)
+
+
+
+
+
+## Projetos
+
 * Proj Teatro  
 * Proj Musica  
 * Proj Jogos  
@@ -25,8 +35,6 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 1. Marcelo  
 2. Saulo  
 3. Paulo  
-
-## Projetos
 
 ## Animações
 

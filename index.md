@@ -44,7 +44,11 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 
 ![robo](robopulo.gif)  
 
-![robo](roboataque.gif)
+![robo](roboataque.gif)  
+
+![robo](roboandando.gif)  
+
+![robo](robocorrendo.gif)  
 
 
 * * *

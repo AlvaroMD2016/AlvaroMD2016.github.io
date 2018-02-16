@@ -18,19 +18,25 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
  
  [![](Elements.PNG)](https://AlvaroMD2016.github.io/Elements)  
  
+* * * 
+ 
 ### Super Chef
  
  [![](superchef.PNG)](https://AlvaroMD2016.github.io/Super%20Chef)  
- 
+
+* * *
+
 ### Tower Defense
  
  [![](tower.PNG)](https://AlvaroMD2016.github.io/Tower%20Defense)  
- 
+
+* * *
+
 ### Fuga das Vacas
  
  [![](fugavacas.PNG)](https://AlvaroMD2016.github.io/Fuga%20das%20Vacas) 
  
- 
+* * *
 
 ## Artes
 
@@ -56,12 +62,16 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 
 #### Pulando
 ![robo](robopulo.gif)  
+* * *
 #### Atacando
 ![robo](roboataque.gif)  
+* * *
 #### Andando
 ![robo](roboandando.gif)  
+* * *
 #### Correndo
 ![robo](robocorrendo.gif)  
+* * *
 
 
 * * *

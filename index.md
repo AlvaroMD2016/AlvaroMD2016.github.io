@@ -15,17 +15,18 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 ## Games
 
  [![](Elements.PNG)](https://AlvaroMD2016.github.io/Elements)  
- [![](super chef.PNG)](https://AlvaroMD2016.github.io/Super%20Chef)
+ 
+ [![](superchef.PNG)](https://AlvaroMD2016.github.io/Super%20Chef)
+ 
+ 
  
  
 
 ## Artes
 
-![Emoji](https://cdn-enterprise.discourse.org/gethopscotch1/uploads/default/original/3X/7/8/78b939bb0c45dc9281cd0ade5c2925c208e10b1d.jpeg)
-
-![Estrela](https://media.cdnandroid.com/69/b2/33/7f/imagen-star-coloring-color-by-number-pixel-art-0thumb.jpg)
-
 ![Megaman](megaman.PNG)
+
+
 
 
 
@@ -40,6 +41,10 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 3. Paulo  
 
 ## Animações
+
+![robo](robopulo.gif)  
+
+![robo](roboataque.gif)
 
 
 * * *

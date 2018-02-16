@@ -46,12 +46,15 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 
 ## Animações
 
+### Robô
+
+#### Pulando
 ![robo](robopulo.gif)  
-
+#### Atacando
 ![robo](roboataque.gif)  
-
+#### Andando
 ![robo](roboandando.gif)  
-
+#### Correndo
 ![robo](robocorrendo.gif)  
 
 

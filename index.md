@@ -55,7 +55,9 @@ Meu nome é Álvaro Medeiros Dantas, tenho 16 anos e sou aluno de jogos digitais
 
 
 
-## Projetos 
+## Projetos  
+
+Projeto Integrador: (xxx)
 
 ## Animações
 
@@ -81,6 +83,14 @@ Meu nome é Álvaro Medeiros Dantas, tenho 16 anos e sou aluno de jogos digitais
 ![robo](robocorrendo.gif)  
 
 * * *
+
+# Contatos
+
+Facebook:  [Álvaro Dantas](https://www.facebook.com/profile.php?id=100006526025595)  
+
+Instagram: [alvaro_dantas5](https://www.instagram.com/alvaro_dantas5/)  
+
+Email: alvarodantas@hotmail.com
 
 
 * * *

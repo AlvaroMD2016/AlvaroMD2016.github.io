@@ -6,7 +6,10 @@ Criando **minha** _pagina_  ~~principal~~.
 
 # Quem sou eu
 
-Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
+![Eu](Eu.jpg)
+
+Meu nome é Álvaro Medeiros Dantas, tenho 16 anos e sou aluno de jogos digitais no IFRN campus Ceará Mirim.
+
 
 * * *
 
@@ -40,36 +43,32 @@ Aluno de jogos aprendendo a fazer um portfólio com o professor Marcelo.
 
 ## Artes
 
-![Megaman](megaman.PNG)
+### Pixel Art
+
+* Papai Smurf
+![Smurf](Papaismurf0.PNG)
+
+* Smurfete
+![Smurfete](frente_parada.PNG)
 
 
 
-
-
-## Projetos
-
-* Proj Teatro  
-* Proj Musica  
-* Proj Jogos  
-
-1. Marcelo  
-2. Saulo  
-3. Paulo  
+## Projetos 
 
 ## Animações
 
 ### Robô
 
-#### Pulando
+* Pulando
 ![robo](robopulo.gif)  
 * * *
-#### Atacando
+* Atacando
 ![robo](roboataque.gif)  
 * * *
-#### Andando
+* Andando
 ![robo](roboandando.gif)  
 * * *
-#### Correndo
+* Correndo
 ![robo](robocorrendo.gif)  
 * * *
 

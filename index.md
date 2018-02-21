@@ -46,10 +46,12 @@ Meu nome é Álvaro Medeiros Dantas, tenho 16 anos e sou aluno de jogos digitais
 ### Pixel Art
 
 * Papai Smurf
-![Smurf](Papaismurf0.png)
+![Smurf](Papaismurf0.png)  
 
 * Smurfete
-![Smurfete](frente_parada.PNG)
+![Smurfete](frente_parada.png)  
+
+
 
 
 
@@ -60,16 +62,24 @@ Meu nome é Álvaro Medeiros Dantas, tenho 16 anos e sou aluno de jogos digitais
 ### Robô
 
 * Pulando  
+
 ![robo](robopulo.gif)  
+
 * * *
 * Atacando  
+
 ![robo](roboataque.gif)  
+
 * * *
 * Andando  
+
 ![robo](roboandando.gif)  
+
 * * *
 * Correndo  
+
 ![robo](robocorrendo.gif)  
+
 * * *
 
 

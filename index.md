@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Criando **minha** _pagina_  ~~principal~~.
 
 # Quem sou eu
 
@@ -101,6 +100,8 @@ Email: alvarodantas@hotmail.com
 
 * * *
 
+# Anotações
+
 ** negrito  
 _ itálico  
 ~~ riscado  
@@ -108,5 +109,6 @@ _ itálico
 #S uma ou mais hashtags criam capitulos ou subcapitulos  
 *s asteriscos adiciona lista não ordenada  
 1s numeros criam lista ordenada  
+Criando **minha** _pagina_  ~~principal~~.
 
 * * *

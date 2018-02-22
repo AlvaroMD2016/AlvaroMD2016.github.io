@@ -6,9 +6,9 @@ Criando **minha** _pagina_  ~~principal~~.
 
 # Quem sou eu
 
-![Eu](Eu.jpg)
-
 Meu nome é Álvaro Medeiros Dantas, tenho 16 anos e sou aluno de jogos digitais no IFRN campus Ceará Mirim.  
+
+![Eu](Eu.jpg)
 
 
 * * *
@@ -42,6 +42,13 @@ Meu nome é Álvaro Medeiros Dantas, tenho 16 anos e sou aluno de jogos digitais
 * * *
 
 ## Artes
+
+* Super Chef  
+
+![Menu](TelaMenu.png)  
+
+![Mosca](mosca.png) 
+
 
 ### Pixel Art
 

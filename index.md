@@ -64,7 +64,7 @@ Meu nome é Álvaro Medeiros Dantas, tenho 17 anos e sou aluno de jogos digitais
 
 Projeto Integrador: (xxx)  
 
-GDD TCC(GDD pronto.pdf)  
+![GDD TCC](GDD.pdf)  
 
 ## Animações
 

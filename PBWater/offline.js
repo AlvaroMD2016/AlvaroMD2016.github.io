@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543932319,
+	"version": 1544104478,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -104,8 +104,6 @@
 		"images/ligaedesligacomporta-sheet0.png",
 		"images/ligaedesligacomporta-sheet1.png",
 		"images/cria_inimigos-sheet0.png",
-		"images/sedeoufarto-sheet0.png",
-		"images/sedeoufarto-sheet1.png",
 		"media/andando.m4a",
 		"media/andando.ogg",
 		"media/coletar2.m4a",

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544579032,
+	"version": 1544618959,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -168,6 +168,8 @@
 		"media/balançando terra.ogg",
 		"media/destruindo barreira.m4a",
 		"media/destruindo barreira.ogg",
+		"media/morrer2.m4a",
+		"media/morrer2.ogg",
 		"media/fundo 2.m4a",
 		"media/fundo 2.ogg",
 		"media/tentativa de fundo.m4a",

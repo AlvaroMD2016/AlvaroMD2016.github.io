@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544577856,
+	"version": 1544579032,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -119,6 +119,7 @@
 		"images/sombalançarterra-sheet0.png",
 		"images/inimigo2-sheet0.png",
 		"images/inimigo2-sheet1.png",
+		"images/setatrator-sheet0.png",
 		"media/andando.m4a",
 		"media/andando.ogg",
 		"media/coletar2.m4a",
